@@ -21,4 +21,6 @@ class Solution(object):
                 n -= 1
         return n <= 0
     
-    
+# time complexity is O(m)
+# space complexity is O(m)
+# m is the length of the flowerbed array  

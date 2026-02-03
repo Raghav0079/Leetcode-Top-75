@@ -26,3 +26,10 @@ class Solution(object):
                 right -= 1
 
         return "".join(s_list)
+
+
+# time complexity is O(n)
+# space complexity is O(n)
+# n is the length of string s
+
+
